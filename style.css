@@ -1,6 +1,10 @@
 /* import fonts */
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
 /* navbar */
 .navbar-brand {
     font-family: 'Quicksand', sans-serif;
@@ -43,4 +47,48 @@
 
 .banner-image {
     width: 488px;
+}
+
+
+/* special section*/
+.special {
+    margin-top: 80px;
+}
+
+.watch-now {
+    color: #8B8BA5;
+}
+
+.special-section-highlight {
+    color: #272042;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.menu-live {
+    list-style: none;
+}
+
+.menu-live > li {
+    margin: 20px;
+    color: #272042
+}
+
+.menu-live > .active {
+    color: #F7C531;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.card-group > .card {
+    border: none;
+}
+
+.card-group > .card > .card-body > h5 {
+    color: #272042;
+    font-weight: 600;
+}
+
+.card-group > .card > .card-body > p {
+    color: #8B8BA5;
 }
