@@ -110,3 +110,18 @@ body {
 .occupation {
     color: #8B8BA5;
 }
+
+/* statistic */
+.statistic {
+    margin-top: 60px;
+}
+
+.statistic > ul > li > .menu {
+    color: #8B8BA5;
+    font-size: 12px;
+}
+
+.statistic > ul > li > .count {
+    color: #272042;
+    font-size: 20px;
+}
