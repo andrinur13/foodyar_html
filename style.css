@@ -1,0 +1,24 @@
+/* import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+/* navbar */
+.navbar-brand {
+    font-family: 'Quicksand', sans-serif;
+    color: #272042;
+    font-weight: 600;
+}
+
+.nav-link {
+    color: #8B8BA5;
+}
+
+.nav-link .active {
+    color: #272042;
+}
+
+.mykitchen {
+    color: #272042;
+    background: #FBE0DC;
+    margin-left: 20px;
+    border-radius: 20px 20px 5px 5px;
+}
