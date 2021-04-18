@@ -92,3 +92,21 @@ body {
 .card-group > .card > .card-body > p {
     color: #8B8BA5;
 }
+
+/* testimonial */
+.testimonial {
+    margin-top: 150px;
+}
+
+.quotes-text {
+    font-size: 34px;
+}
+
+.username {
+    color: #272042;
+    font-weight: 600;
+}
+
+.occupation {
+    color: #8B8BA5;
+}
