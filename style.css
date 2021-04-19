@@ -12,6 +12,10 @@ body {
     font-weight: 600;
 }
 
+.bg-navbar {
+    background: #ffffff;
+}
+
 .nav-link {
     color: #8B8BA5;
 }
